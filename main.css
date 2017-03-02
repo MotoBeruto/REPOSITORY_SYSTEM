@@ -1,0 +1,86 @@
+body {
+	background: url('Images/Face.jpg') no-repeat center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	margin: 0;
+}
+nav ul li{
+	padding: 10px;
+	display:inline;
+	list-style-type:none;
+	font-family:chiller;
+	font-weight:bold;
+	font-size:40px;
+	color:white;
+}
+.Login {
+	font-family:chiller;
+	font-size:30px;
+	}
+	
+a{
+	text-decoration: none;
+	color:white;
+}
+footer{
+	color:white;
+	text-align:center;
+	background:gray;
+	padding:10px;
+	margin: 0;
+}
+#davao{
+	color:gray;
+}
+.movieTitle {
+	text-indent:100px;
+}
+.videos {
+	display: block;
+	left: 40%;
+	position: absolute;
+	top: 43%;
+}
+.details {
+	margin:50px;
+}
+.searchbar {
+	display: block;
+	left:80%;
+	position: absolute;
+	top: 211px; 
+	font-size:25px;
+	font-family:chiller;
+}
+.contactWEB, .contactFB, .contactGmail{
+	color:#255;
+}
+.menu{
+	font-family:default;
+	font-size:default;
+}
+.header
+{
+    height:50px;
+}
+.content
+{
+    position:absolute;
+    top: 50px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    overflow-y:scroll;        
+}
+
+
+
+
+
+
+
+
+/*
+ * Nothing Follows */
